@@ -7,7 +7,6 @@ This project uses sample data for a software company that sells monthly subscrip
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-yellow?style=flat-square&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-MS%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver)
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue?style=flat-square&logo=python)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 ---
 
@@ -241,7 +240,7 @@ I built this to practice the numbers that subscription businesses watch: recurri
 **Tushar Jadhav**
 Data Analyst | Power BI · DAX · Power Query <br>
 📧 tusharjadhav1582003@gmail.com <br>
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-name/) <br>
+💼 [LinkedIn](www.linkedin.com/in/tushar-jadhav-data-analyst) <br>
 💻 [github.com/jtushar15](https://github.com/jtushar15)
 
 ---
@@ -258,5 +257,3 @@ Data Analyst | Power BI · DAX · Power Query <br>
 - SaaS metrics
 
 ---
-
-If this project helped you, you can give the repository a ⭐. Feedback is welcome.

@@ -54,7 +54,7 @@ This project uses sample data for a software company that sells monthly subscrip
 
 ### Marketing Analytics
 
-<img width="587" height="330" alt="Image" src="https://github.com/user-attachments/assets/dbd77f6c-c5e6-4c54-87de-b9fa3e3b62a2" />
+<img width="1002" height="566" alt="Image" src="https://github.com/user-attachments/assets/f3eb1ede-e1dd-48ae-b901-48164ce76643" />
 
 </td>
 </tr>

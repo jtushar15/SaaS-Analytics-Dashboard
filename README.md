@@ -44,7 +44,7 @@ This project uses sample data for a software company that sells monthly subscrip
 
 ### Subscription Health
 
-<img width="584" height="330" alt="Image" src="https://github.com/user-attachments/assets/b5857438-7b4c-45c2-8d81-da281d98b735" />
+<img width="997" height="560" alt="Image" src="https://github.com/user-attachments/assets/8651730b-7fc5-4327-a136-9cf0ef6425b0" />
 
 </td>
 </tr>

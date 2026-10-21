@@ -18,7 +18,7 @@ This project uses sample data for a software company that sells monthly subscrip
 
 ### Executive Overview
 
-<img width="587" height="330" alt="Image" src="https://github.com/user-attachments/assets/213ba3af-0b20-489d-8918-d0555134f156" />
+<img width="1000" height="562" alt="Image" src="https://github.com/user-attachments/assets/fc2632a8-d13a-4e2e-b514-327997e9d03f" />
 
 </td>
 

@@ -26,7 +26,7 @@ This project uses sample data for a software company that sells monthly subscrip
 
 ### Revenue Analytics
 
-<img width="587" height="328" alt="Image" src="https://github.com/user-attachments/assets/cbaf1f13-7f73-49d5-81d5-3b85891fab79" />
+<img width="996" height="565" alt="Image" src="https://github.com/user-attachments/assets/c76c6593-a0d4-4cb7-996d-eeec7a7a732f" />
 
 </td>
 </tr>

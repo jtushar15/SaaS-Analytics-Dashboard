@@ -36,7 +36,7 @@ This project uses sample data for a software company that sells monthly subscrip
 
 ### Customer Analytics
 
-<img width="585" height="329" alt="Image" src="https://github.com/user-attachments/assets/2a5f8c9a-5cf0-462e-968e-4d25d0ff4f97" />
+<img width="995" height="557" alt="Image" src="https://github.com/user-attachments/assets/4f13ce40-b525-4e1c-a5bb-de68e6fa2e51" />
 
 </td>
 
